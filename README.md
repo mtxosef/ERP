@@ -40,3 +40,11 @@ git pull origin master
 Mandas al repositorio tus archivos:
 
 git push origin master
+
+Agregar ramas
+
+git branch dev
+
+Cambiarte de rama
+
+git checkout dev
